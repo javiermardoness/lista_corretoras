@@ -54,3 +54,4 @@ ID,Nome,CNPJ,Status,País,Site,Tipo
 53,Warren Investimentos,62.287.735/0001-03,Ativa — operação via Warren Rena DTVM,Brasil,https://warren.com.br/,DTVM
 54,XP Investimentos,02.332.886/0001-04,Ativa — B3 PQO,Brasil,https://www.xpi.com.br/,CCTVM
 55,Corretora Teste Power Query V15,00.000.000/0000-00,Teste de sincronizacao,Brasil,https://www.javiermardones.com/,Teste Power Query
+999,Corretora Teste Power Query Temporaria V20,00.000.000/0000-99,Teste de sincronizacao,Brasil,https://www.javiermardones.com/,Teste Power Query
